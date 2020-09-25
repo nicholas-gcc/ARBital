@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start menu.unity
+    guid: bd00649e123e28140955b5a7a9d18a35
+  - enabled: 1
+    path: Assets/Scenes/MoleculAR.unity
+    guid: c41795f439bc7e04cae5b93841789d72
+  - enabled: 1
+    path: Assets/Scenes/InstructionsPage.unity
+    guid: 90c15256f9189304a88cb0fb36a61538
+  - enabled: 1
+    path: Assets/Scenes/ElecAddExp.unity
+    guid: ee82fffd638d14541bac0023314fa1be
+  - enabled: 1
+    path: Assets/Scenes/ElecSubExp.unity
+    guid: 7b448f2e8e1f0914c8f43bb7db36e488
+  - enabled: 1
+    path: Assets/Scenes/NuclAddExp.unity
+    guid: a972b03ff8a5812468c4814c5d60bf10
+  - enabled: 1
+    path: Assets/Scenes/SN1Exp.unity
+    guid: e94fa108a0d632e438e4277c49e4859f
+  - enabled: 1
+    path: Assets/Scenes/SN2Exp.unity
+    guid: af613c9ff1bcb0643a08903bc72256d0
+  - enabled: 1
+    path: Assets/Scenes/ChiralityExp.unity
+    guid: e20e57fdb80cccb4d87007300a37ceaf
+  - enabled: 1
+    path: Assets/Scenes/ConceptsPage.unity
+    guid: e4c56b5a42946e94584b9243ffff9a2f
+  m_configObjects: {}

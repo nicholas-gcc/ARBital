@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="T-ShapedBrF3" size="1.000000 0.908460" />
+    <ImageTarget name="TrigonalPyramidalNH3" size="1.000000 0.908460" />
+    <ImageTarget name="TrigonalPlanarNO3-" size="1.000000 0.904300" />
+    <ImageTarget name="TrigonalBipyramidalPCl5" size="1.000000 0.902204" />
+    <ImageTarget name="SquarePyramidalIF5" size="1.000000 0.905947" />
+    <ImageTarget name="SquarePlanarXeF4" size="1.000000 0.904300" />
+    <ImageTarget name="SeeSawSF4" size="1.000000 0.908460" />
+    <ImageTarget name="OctahedralSF6" size="1.000000 0.904696" />
+    <ImageTarget name="NucleophilicSubstitutionSN2" size="1.000000 0.357143" />
+    <ImageTarget name="NucleophilicSubstitutionSN1" size="1.000000 0.358059" />
+    <ImageTarget name="NucleophilicAddition" size="1.000000 0.357731" />
+    <ImageTarget name="NaCl" size="1.000000 0.904696" />
+    <ImageTarget name="Na" size="1.000000 0.905947" />
+    <ImageTarget name="LinearCO2" size="1.000000 0.911234" />
+    <ImageTarget name="Linear3lpXeF2" size="1.000000 0.908460" />
+    <ImageTarget name="KetoneCH3COCH3" size="1.000000 0.358188" />
+    <ImageTarget name="EsterCH3COOCH3" size="1.000000 0.359582" />
+    <ImageTarget name="ElectrophilicSubstitution" size="1.000000 0.356021" />
+    <ImageTarget name="ElectrophilicAddition" size="1.000000 0.357367" />
+    <ImageTarget name="Cl" size="1.000000 0.907073" />
+    <ImageTarget name="Chirality" size="1.000000 0.358412" />
+    <ImageTarget name="CarboxylicAcidCH3CH2COOH" size="1.000000 0.358188" />
+    <ImageTarget name="BuckminsterfullereneC60" size="1.000000 0.907073" />
+    <ImageTarget name="Br2" size="1.000000 0.908460" />
+    <ImageTarget name="BenzeneC6H6" size="1.000000 0.908460" />
+    <ImageTarget name="Bent2lpH2O" size="1.000000 0.908460" />
+    <ImageTarget name="Bent1lpSnCl2" size="1.000000 0.904696" />
+    <ImageTarget name="AmideCH3CH2CONH2" size="1.000000 0.357690" />
+    <ImageTarget name="AlkeneCH3CHCH2" size="1.000000 0.357705" />
+    <ImageTarget name="AlkaneCH4" size="1.000000 0.908955" />
+    <ImageTarget name="AldehydeCH3CH2CHO" size="1.000000 0.358188" />
+    <ImageTarget name="AlcoholCH3CH2CH2OH" size="1.000000 0.358438" />
+  </Tracking>
+</QCARConfig>
